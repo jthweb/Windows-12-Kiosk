@@ -1,0 +1,40 @@
+User-agent: *
+
+# If you want to allow search engines to crawl the following directories, please comment out the corresponding index rules
+
+# External data files: Do not allow search engines to crawl external data files to protect sensitive data
+
+Disallow: /data/ # Prevent search engines from accessing external data files
+
+# Applications: Do not allow search engines to crawl application-related content
+
+Disallow: /apps/ # Prevent search engines from accessing application directories
+
+# GitHub-related: Do not allow search engines to crawl GitHub-related content
+
+Disallow: /.github/ # Prevent search engines from accessing GitHub-related content
+
+# Modules: Do not allow search engines to crawl module files to protect code logic
+
+Disallow: /module/ # Prevent search engines from accessing module files
+
+# Progressive Web Applications: Do not allow search engines to crawl PWA-related content
+
+Disallow: /pwa/ # Prevent search engines from accessing PWA-related content
+
+# JavaScript files: Do not allow search engines to crawl JavaScript files
+
+Disallow: /scripts/ # Prevent search engines from accessing JavaScript files
+
+# Font files: Do not allow search engines to crawl font files
+
+Disallow: /fonts/ # Prevent search engines from accessing font files
+
+# Image files: Do not allow search engines to crawl image files
+Disallow: /icon/ # Prevent search engines from accessing image files
+
+# Image files: Do not allow search engines to crawl image files
+Disallow: /img/ # Prevent search engines from accessing image files
+
+# Audio files: Do not allow search engines to crawl audio files
+Disallow: /media/ # Prevent search engines from accessing audio files
