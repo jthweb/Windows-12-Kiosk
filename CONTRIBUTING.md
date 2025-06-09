@@ -2,11 +2,11 @@
 
 Thanks for showing interest in contributing to the Windows 12 Concept project! Whether you're a developer, designer, or just someone with great ideas — your input is valuable.
 
-----
+-----
 
 ## 📌 Ways You Can Contribute
 
-- **Report Issues**: Found a bug or visual glitch? Open an [issue](https://github.com/jthweb/Windows-12/issues).
+- **Report Issues**: Found a bug or visual glitch? Open an [issue](https://github.com/jthweb/Windows-12-Kiosk/issues).
 - **Suggest Features**: Got ideas for new functionality or improvements? Let us know!
 - **Improve the UI**: Suggest layout tweaks, new icons, or better themes.
 - **Submit Code**: Help fix bugs, add features, or enhance compatibility.
